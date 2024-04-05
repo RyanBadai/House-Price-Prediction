@@ -87,6 +87,7 @@ Dalam penelitian ini, penulis menggunakan metrik akurasi dan MSE untuk mengevalu
 | Boosting | 0.260317 | 
 
 - Visualisasi MSE
+
 ![download2](https://github.com/RyanBadai/testing/assets/98163422/d93f4f79-34f4-41b4-b6ed-fc3ecb63bd5b)
 
 - Hasil
